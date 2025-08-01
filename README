@@ -1,0 +1,88 @@
+Joy Barongo's Portfolio Website
+This is a personal portfolio website built with clean HTML and CSS to showcase the skills and projects of a Frontend Developer and Graphic Designer. The site features a professional, modern design with a dynamic typing animation, responsive layout, and dedicated sections for a comprehensive overview of the creator's work and experience.
+
+Features
+Dynamic Typing Effect: An engaging typewriter animation in the hero section highlights key roles.
+
+Responsive Design: The layout is fully responsive, ensuring a seamless experience on mobile, tablet, and desktop devices.
+
+Section-Based Navigation: The site is structured into distinct sections with a fixed header for easy navigation:
+
+Home
+
+About
+
+Services
+
+Experience
+
+Skills
+
+Education
+
+Interests
+
+Portfolio
+
+Contact
+
+Interactive Elements: Smooth hover effects on buttons, social media links, and portfolio items.
+
+Contact Form: A simple form for visitors to get in touch.
+
+Technologies Used
+HTML5: For the website structure.
+
+CSS3: For styling and animations, including flexbox and keyframes.
+
+Boxicons & Font Awesome: For professional icons used throughout the site.
+
+Google Fonts (Poppins): For a clean and modern typography.
+
+Getting Started
+To get a local copy up and running, follow these simple steps.
+
+Prerequisites
+You need a web browser to view the index.html file. No other prerequisites are needed to run the website locally.
+
+Installation
+
+git clone https://github.com/joyous47/my-portfolio-.git
+
+Open the files:
+Simply open the index.html file in your preferred web browser.
+
+Customization
+This portfolio is designed to be easily customizable.
+
+Content: Update the text in the index.html file with your personal information, experience, education, and project details.
+
+Images: Replace joyb.png and the placeholder images in the portfolio section with your own profile picture and project screenshots.
+
+Links: Change the social media links, email address, and project URLs to your own.
+
+Colors: You can easily change the primary accent color by updating the var(--main-color) variable in your style.css file.
+
+Animations: Adjust the timing and effects of the typing animation by modifying the keyframes and animation properties in style.css.
+
+File Structure
+index.html: The main HTML file containing the content and structure of the website.
+
+style.css: The stylesheet for all design and layout rules.
+
+joyb.png: The profile picture used in the home and about sections.
+
+assets/: (Optional) A folder for other images, logos, or assets.
+Code Quality
+Semantic HTML5
+CSS variables for theming
+Mobile-first approach
+Well-commented code
+Accessibility best practices
+📈 Future Improvements
+ Add JavaScript interactivity
+
+📬 Contact Me
+ whatsaap:0700054135
+ email:jbarongo011@gmail.com
+ 
